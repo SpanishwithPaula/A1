@@ -1,3 +1,12 @@
+# 📘 Nueva unidad: Super Spanish · Presente de indicativo
+
+**[Abrir la carpeta de la unidad del presente de indicativo](./super-spanish-presente-indicativo/)**  
+**[Ver el archivo HTML de la unidad (letra ampliada 40 %)](./super-spanish-presente-indicativo/index.html)**
+
+Esta es una unidad independiente con diccionario de 242 verbos, conjugaciones, lecturas, gramática contrastiva y actividades. **No es la página principal del repositorio A1.**
+
+---
+
 # Español con Paula · Repaso A1
 
 Sitio estático, sin instalación ni compilación.
